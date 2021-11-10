@@ -16,6 +16,10 @@ public class SeleniumTest {
 	public void Elementsui(){
 		System.out.println(" Elements ui");
 	}
+	@Test
+	public void Elementsui123423(){
+		System.out.println(" Elements ui2345676543");
+	}
 	
 
 }
