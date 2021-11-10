@@ -25,6 +25,10 @@ public class SeleniumTest {
 	public void Elementsuidfdsa123423(){
 		System.out.println(" ElementsDSA ui23fdsa45676543");
 	}
+	@Test
+	public void Elementsuidf423(){
+		System.out.println(" ElementsDSA 45676543");
+	}
 	
 
 }
