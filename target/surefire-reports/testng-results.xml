@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60" started-at="2021-11-02T07:07:42 IST" finished-at="2021-11-02T07:07:42 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60" started-at="2021-11-02T07:07:42 IST" finished-at="2021-11-02T07:07:42 IST">
+      <class name="org.sujeet.eclipse.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="Elementsui()[pri:0, instance:org.sujeet.eclipse.Mavenjava.SeleniumTest@34cd072c]" name="Elementsui" duration-ms="1" started-at="2021-11-02T07:07:42 IST" finished-at="2021-11-02T07:07:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elementsui -->
+        <test-method status="PASS" signature="Browserautomation()[pri:0, instance:org.sujeet.eclipse.Mavenjava.SeleniumTest@34cd072c]" name="Browserautomation" duration-ms="0" started-at="2021-11-02T07:07:42 IST" finished-at="2021-11-02T07:07:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserautomation -->
+      </class> <!-- org.sujeet.eclipse.Mavenjava.SeleniumTest -->
+      <class name="org.sujeet.eclipse.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="Iosapps()[pri:0, instance:org.sujeet.eclipse.Mavenjava.AppiumTest@536aaa8d]" name="Iosapps" duration-ms="5" started-at="2021-11-02T07:07:42 IST" finished-at="2021-11-02T07:07:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iosapps -->
+        <test-method status="PASS" signature="Nativeappandroid()[pri:0, instance:org.sujeet.eclipse.Mavenjava.AppiumTest@536aaa8d]" name="Nativeappandroid" duration-ms="1" started-at="2021-11-02T07:07:42 IST" finished-at="2021-11-02T07:07:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nativeappandroid -->
+      </class> <!-- org.sujeet.eclipse.Mavenjava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
